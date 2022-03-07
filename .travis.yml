@@ -1,3 +1,4 @@
+# Super user permission and Docker required.
 sudo: required
 services:
  - docker
