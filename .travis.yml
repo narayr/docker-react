@@ -8,3 +8,4 @@ before_install:
 
 script:
  - docker run nanraj50/docker-react npm run test -- --coverage
+ - npm -v
